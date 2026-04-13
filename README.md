@@ -1,6 +1,12 @@
 # cartwave-late-delivery-prediction
 
 # CartWave Marketplace: Late Delivery Prediction using Machine Learning
+## Installation
+To use this project, first clone the repo on your device using the commands below:
+
+git init
+
+git clone https://github.com/PraseedaSaripalle/cartwave-late-delivery-prediction.git
 
 ## Project Overview
 
@@ -180,3 +186,9 @@ cartwave-late-delivery-prediction/
 │   └── Executive_Presentation.pdf
 │
 └── images/
+
+---
+
+## Presentations and projects
+- Amazon SageMaker (AWS) Python - Jupyter Notebook notebooks
+- Video Presentation [reports/Final Project Video Presentation_Team 3_Predicting Late Deliveries.mp4]
